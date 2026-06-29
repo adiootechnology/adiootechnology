@@ -1,9 +1,7 @@
 <h1 align="center">This is Adioo Technology Repository</h1>
 <h3 align="center">Delivering innovative, tailor-made digital solutions to businesses of all sizes</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emma009&label=Profile%20views&color=0e75b6&style=flat" alt="emma009" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emma009" alt="emma009" /></a> </p>
 
 - 🔭 I’m currently working on **Simterest,Payquicker App,Adakaa Shoppers Project**
 
